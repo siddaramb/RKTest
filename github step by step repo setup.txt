@@ -1,0 +1,14 @@
+Steps to create github repo:
+
+step1 :
+install software from - https://git-scm.com/download/win
+
+step2:
+open Git Bash console and type following
+  1.  $ git init
+  2.  $ git remote add origin https://github.com/RamakrishnaMB/RKTest.git
+  3.  $ git commit -m 'initial commit'
+  4.  $ git show-ref
+  5.  $ git add --all :/
+  6.  $ git commit -am 'message'
+  7.  $ git push -u origin master
