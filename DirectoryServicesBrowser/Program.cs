@@ -11,6 +11,7 @@ namespace DirectoryServicesBrowser
         {
             Console.WriteLine("Loaded DirectoryServicesBrowserDialog");
             Console.WriteLine("Loaded Test");
+            Console.WriteLine("Loaded rk");
             DirectoryServicesBrowserDialog DirectoryBrowser =
                             new DirectoryServicesBrowserDialog(null, null);
             DirectoryBrowser.ShowDialog();
