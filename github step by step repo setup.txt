@@ -18,3 +18,5 @@ ref:
 http://gitscc.codeplex.com/
 
 https://berniecook.wordpress.com/2013/01/13/adding-a-local-git-repository-to-github-step-by-step-guide/
+
+https://help.github.com/articles/adding-an-existing-project-to-github-using-the-command-line/
