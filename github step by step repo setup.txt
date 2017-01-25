@@ -12,3 +12,9 @@ open Git Bash console and type following
   5.  $ git add --all :/
   6.  $ git commit -am 'message'
   7.  $ git push -u origin master
+
+ref:
+
+http://gitscc.codeplex.com/
+
+https://berniecook.wordpress.com/2013/01/13/adding-a-local-git-repository-to-github-step-by-step-guide/
